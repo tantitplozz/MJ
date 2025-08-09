@@ -1,0 +1,4 @@
+mcp==1.9.4
+python-dotenv
+openai>=1.40.0
+tenacity
